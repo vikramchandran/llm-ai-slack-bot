@@ -1,0 +1,130 @@
+{
+  "persons": [
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "pronouns": "he/him",
+      "email_address": "john.doe@example.com",
+      "phone_number": "+123456789",
+      "timezone": "UTC-5",
+      "participant": true,
+      "participant_optional": false,
+      "organizer": false,
+      "arbitrary_details": [
+        {
+          "key": "title",
+          "value": "Manager"
+        },
+        {
+          "key": "role",
+          "value": "Engineering"
+        }
+      ]
+    },
+    {
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "pronouns": "she/her",
+      "email_address": "jane.smith@example.com",
+      "phone_number": "+987654321",
+      "timezone": "UTC+1",
+      "participant": true,
+      "participant_optional": true,
+      "organizer": true,
+      "arbitrary_details": [
+        {
+          "key": "title",
+          "value": "Director"
+        },
+        {
+          "key": "role",
+          "value": "Marketing"
+        }
+      ]
+    },
+    {
+      "first_name": "Alice",
+      "last_name": "Johnson",
+      "pronouns": "she/her",
+      "email_address": "alice.johnson@example.com",
+      "phone_number": "+1122334455",
+      "timezone": "UTC-8",
+      "participant": true,
+      "participant_optional": false,
+      "organizer": true,
+      "arbitrary_details": [
+        {
+          "key": "title",
+          "value": "Engineer"
+        },
+        {
+          "key": "role",
+          "value": "Product Development"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Wong",
+      "pronouns": "she/her",
+      "email_address": "emily.wong@example.com",
+      "phone_number": "+1122334455",
+      "timezone": "UTC-6",
+      "participant": true,
+      "participant_optional": true,
+      "organizer": false,
+      "arbitrary_details": [
+        {
+          "key": "title",
+          "value": "Designer"
+        },
+        {
+          "key": "role",
+          "value": "UX/UI"
+        }
+      ]
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Brown",
+      "pronouns": "he/him",
+      "email_address": "michael.brown@example.com",
+      "phone_number": "+9988776655",
+      "timezone": "UTC+3",
+      "participant": true,
+      "participant_optional": false,
+      "organizer": false,
+      "arbitrary_details": [
+        {
+          "key": "title",
+          "value": "Consultant"
+        },
+        {
+          "key": "role",
+          "value": "Strategy"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Garcia",
+      "pronouns": "she/her",
+      "email_address": "emily.garcia@example.com",
+      "phone_number": "+1122334455",
+      "timezone": "UTC-6",
+      "participant": true,
+      "participant_optional": true,
+      "organizer": false,
+      "arbitrary_details": [
+        {
+          "key": "title",
+          "value": "Designer"
+        },
+        {
+          "key": "role",
+          "value": "UX/UI"
+        }
+      ]
+    }
+  ]
+}
